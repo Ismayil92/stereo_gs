@@ -1,0 +1,6 @@
+/home/jetson-ismayil/Embedded-Projects/Read_CSI_Camera/build/CMakeFiles/rebuild_cache.dir
+/home/jetson-ismayil/Embedded-Projects/Read_CSI_Camera/build/CMakeFiles/stcam_LIBRARY.dir
+/home/jetson-ismayil/Embedded-Projects/Read_CSI_Camera/build/CMakeFiles/edit_cache.dir
+/home/jetson-ismayil/Embedded-Projects/Read_CSI_Camera/build/CMakeFiles/stereo_cam.dir
+/home/jetson-ismayil/Embedded-Projects/Read_CSI_Camera/build/CMakeFiles/stcam_LIBRARY_autogen.dir
+/home/jetson-ismayil/Embedded-Projects/Read_CSI_Camera/build/CMakeFiles/stereo_cam_autogen.dir

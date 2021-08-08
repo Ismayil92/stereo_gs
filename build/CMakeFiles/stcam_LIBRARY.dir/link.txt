@@ -1,0 +1,2 @@
+/usr/bin/ar qc libstcam_LIBRARY.a  CMakeFiles/stcam_LIBRARY.dir/src/camera_config.cpp.o CMakeFiles/stcam_LIBRARY.dir/src/disparity.cpp.o CMakeFiles/stcam_LIBRARY.dir/src/main_window.cpp.o CMakeFiles/stcam_LIBRARY.dir/stcam_LIBRARY_autogen/mocs_compilation.cpp.o
+/usr/bin/ranlib libstcam_LIBRARY.a
